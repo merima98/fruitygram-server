@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Alex",
+      "lastName": "Petherson"
+    },
+    {
+      "email": "testing@gmail.com",
+      "password": "$2a$10$DrYqQB1k6hIpwZhiXa2JRuR1RxKYkoOjJfwjeWbRTJMV0ioDjz.xS",
+      "firstName": "testing",
+      "lastName": "testing",
+      "id": 3
+    },
+    {
+      "email": "testing2@gmail.com",
+      "password": "$2a$10$GkHHl6.spKMmqCyVQ6TzVeNDjz32EQP7HulqHCsWisVNSa9gzbnw2",
+      "firstName": "testing2",
+      "lastName": "testing2",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "dateOdModification": "2022-12-12T18:25:43.511Z",
+      "dateOfCreation": "2022-12-23T18:25:43.511Z",
+      "content": "Image of T-Shirt",
+      "userId": 1,
+      "image": "https://st4.depositphotos.com/13349494/22302/i/1600/depositphotos_223024242-stock-photo-close-view-laundry-basket-pile.jpg"
+    },
+    {
+      "dateOdModification": "2022-12-12T18:25:43.511Z",
+      "dateOfCreation": "2022-12-23T18:25:43.511Z",
+      "content": "Image of Second T-Shirt",
+      "userId": 2,
+      "image": "https://st4.depositphotos.com/13349494/22302/i/1600/depositphotos_223024242-stock-photo-close-view-laundry-basket-pile.jpg"
+    }
+  ]
+}
