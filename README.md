@@ -1,1 +1,1 @@
-# fruitygram-server
+# piazza app server
