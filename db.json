@@ -11,34 +11,37 @@
       "lastName": "Petherson"
     },
     {
-      "email": "testing@gmail.com",
-      "password": "$2a$10$DrYqQB1k6hIpwZhiXa2JRuR1RxKYkoOjJfwjeWbRTJMV0ioDjz.xS",
-      "firstName": "testing",
-      "lastName": "testing",
+      "email": "aggata@gmail.com",
+      "password": "$2a$10$gzYixLTAvu8.nTV3pWd9GOrZwTlvaR9AQVN4FsiTaikyFzk9YJb5u",
+      "firstName": "aggata",
+      "lastName": "aggata",
       "id": 3
-    },
-    {
-      "email": "testing2@gmail.com",
-      "password": "$2a$10$GkHHl6.spKMmqCyVQ6TzVeNDjz32EQP7HulqHCsWisVNSa9gzbnw2",
-      "firstName": "testing2",
-      "lastName": "testing2",
-      "id": 4
     }
   ],
   "posts": [
     {
+      "id": 1,
       "dateOdModification": "2022-12-12T18:25:43.511Z",
       "dateOfCreation": "2022-12-23T18:25:43.511Z",
       "content": "Image of T-Shirt",
       "userId": 1,
-      "image": "https://st4.depositphotos.com/13349494/22302/i/1600/depositphotos_223024242-stock-photo-close-view-laundry-basket-pile.jpg"
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1412&q=80"
+    },
+    {
+      "id": 2,
+      "dateOdModification": "2022-12-12T18:25:43.511Z",
+      "dateOfCreation": "2022-12-23T18:25:43.511Z",
+      "content": "Image of Second T-Shirt",
+      "userId": 2,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
     },
     {
       "dateOdModification": "2022-12-12T18:25:43.511Z",
       "dateOfCreation": "2022-12-23T18:25:43.511Z",
       "content": "Image of Second T-Shirt",
-      "userId": 2,
-      "image": "https://st4.depositphotos.com/13349494/22302/i/1600/depositphotos_223024242-stock-photo-close-view-laundry-basket-pile.jpg"
+      "userId": 1,
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+      "id": 3
     }
   ]
 }
