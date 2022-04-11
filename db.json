@@ -48,6 +48,13 @@
       "password": "$2a$10$orTkxDno3XQ7CqOE0DkdluRniKAZWPP24aCMfS0H.3hZTVhmAiGDy",
       "email": "temp@test.com",
       "id": 9
+    },
+    {
+      "email": "testing@gmail.com",
+      "password": "$2a$10$4GYWKZaGsqCIDWPhl2C3Oej6mgzLzxyt2wU/XMiDFaGQ4umnEk/9y",
+      "firstName": "testing",
+      "lastName": "testing",
+      "id": 10
     }
   ],
   "posts": [

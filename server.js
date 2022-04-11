@@ -8,7 +8,9 @@ const port = process.env.PORT || 3500;
 
 server.db = router.db;
 
+server.use(jsonServer.bodyParser);
 server.use(cors());
+
 server.use(auth);
 server.use(router);
 server.listen(port);
