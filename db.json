@@ -13,6 +13,41 @@
       "firstName": "Admin",
       "lastName": "Admin",
       "id": 4
+    },
+    {
+      "email": "felix@test.com",
+      "password": "$2a$10$jDWO4IBthjgWUffiQxT3gexMbrxibgEd0UEzxSe/a8gWzbjHGK.Sa",
+      "firstName": "felix",
+      "lastName": "felix",
+      "id": 5
+    },
+    {
+      "email": "merima@test.com",
+      "password": "$2a$10$rVi.rGA20/E5nv/exiC/YOXX464PkCwvVVWJiRzwKMPmrgE.wGN3G",
+      "firstName": "Merima",
+      "lastName": "Ceranic",
+      "id": 6
+    },
+    {
+      "email": "merima@gmail.com",
+      "password": "$2a$10$RP7B6T9KCxmwKfmrzP9Lt.W24GRFgV9ztHWA.orsu11JiV/7CgCZi",
+      "firstName": "merima",
+      "lastName": "merima",
+      "id": 7
+    },
+    {
+      "email": "user@test.com",
+      "password": "$2a$10$zGFRtCgPBn59t.ax0kjJ7.LozYUsXChp0dwjVYyM.BZJt3WSCrr/G",
+      "firstName": "user",
+      "lastName": "user",
+      "id": 8
+    },
+    {
+      "firstName": "temp",
+      "lastName": "temp",
+      "password": "$2a$10$orTkxDno3XQ7CqOE0DkdluRniKAZWPP24aCMfS0H.3hZTVhmAiGDy",
+      "email": "temp@test.com",
+      "id": 9
     }
   ],
   "posts": [
@@ -25,12 +60,20 @@
       "id": 3
     },
     {
-      "dateOfModification": "2022-04-11T08:29:06.125Z",
+      "dateOfModification": "2022-04-11T09:46:08.851Z",
       "dateOfCreation": "2022-04-08T14:17:31.787Z",
-      "content": "Image PUT request",
+      "content": "Perfect shoes.",
       "userId": 3,
-      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+      "image": "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=749&q=80",
       "id": 4
+    },
+    {
+      "dateOfModification": "2022-04-11T09:21:24.599Z",
+      "dateOfCreation": "2022-04-11T09:21:24.599Z",
+      "content": "Post.",
+      "userId": 0,
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+      "id": 5
     }
   ]
 }
