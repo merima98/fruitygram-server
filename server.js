@@ -4,10 +4,11 @@ const cors = require("cors");
 
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
+const port = process.env.PORT || 3500;
 
 server.db = router.db;
 
 server.use(cors());
 server.use(auth);
 server.use(router);
-server.listen(3500);
+server.listen(port);
