@@ -1,47 +1,36 @@
 {
   "users": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Alex",
-      "lastName": "Petherson"
-    },
-    {
       "email": "aggata@gmail.com",
-      "password": "$2a$10$gzYixLTAvu8.nTV3pWd9GOrZwTlvaR9AQVN4FsiTaikyFzk9YJb5u",
-      "firstName": "aggata",
-      "lastName": "aggata",
+      "password": "$2a$10$IuCnIWoCTD43AiA8x9yWn.kjzQDEH7sQMEqLe/OWjQcgTeMqEtWqK",
+      "firstName": "Alex",
+      "lastName": "Doe",
       "id": 3
+    },
+    {
+      "email": "admin@test.com",
+      "password": "$2a$10$qOrHK.iw6Id6ypcaLXg0h.7Sc75BCcL81ZyHiX.J0bHTtwKgrzn42",
+      "firstName": "Admin",
+      "lastName": "Admin",
+      "id": 4
     }
   ],
   "posts": [
     {
-      "id": 1,
-      "dateOdModification": "2022-12-12T18:25:43.511Z",
+      "dateOfModification": "2022-04-11T08:06:39.896Z",
       "dateOfCreation": "2022-12-23T18:25:43.511Z",
-      "content": "Image of T-Shirt",
+      "content": "Image update from client.",
       "userId": 1,
-      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1412&q=80"
-    },
-    {
-      "id": 2,
-      "dateOdModification": "2022-12-12T18:25:43.511Z",
-      "dateOfCreation": "2022-12-23T18:25:43.511Z",
-      "content": "Image of Second T-Shirt",
-      "userId": 2,
-      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
-    },
-    {
-      "dateOdModification": "2022-12-12T18:25:43.511Z",
-      "dateOfCreation": "2022-12-23T18:25:43.511Z",
-      "content": "Image of Second T-Shirt",
-      "userId": 1,
-      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+      "image": "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=749&q=80",
       "id": 3
+    },
+    {
+      "dateOfModification": "2022-04-11T08:29:06.125Z",
+      "dateOfCreation": "2022-04-08T14:17:31.787Z",
+      "content": "Image PUT request",
+      "userId": 3,
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+      "id": 4
     }
   ]
 }
