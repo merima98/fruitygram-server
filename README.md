@@ -9,4 +9,4 @@
     yarn start
 ```
 
-### Deployed on [Glitch]("https://glitch.com/")
+### Deployed on [Glitch](https://glitch.com/)
