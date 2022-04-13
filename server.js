@@ -2,15 +2,15 @@ const jsonServer = require("json-server");
 const auth = require("json-server-auth");
 const cors = require("cors");
 
-const server = jsonServer.create();
+const app = jsonServer.create();
 const router = jsonServer.router("db.json");
 const port = process.env.PORT || 3500;
 
-server.db = router.db;
+app.db = router.db;
 
-server.use(jsonServer.bodyParser);
-server.use(cors());
+app.use(jsonServer.bodyParser);
+app.use(cors());
 
-server.use(auth);
-server.use(router);
-server.listen(port);
+app.use(auth);
+app.use(router);
+app.listen(port);

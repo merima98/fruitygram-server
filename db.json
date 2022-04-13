@@ -55,6 +55,13 @@
       "firstName": "testing",
       "lastName": "testing",
       "id": 10
+    },
+    {
+      "email": "user1@test.com",
+      "password": "$2a$10$FzwzBW3G976ZUIfKJwJKgO3gFtThldN7ouqczj7I/LZym3FHpjEsa",
+      "firstName": "user1",
+      "lastName": "user1",
+      "id": 11
     }
   ],
   "posts": [
